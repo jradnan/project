@@ -1,0 +1,26 @@
+.heading{
+    text-align: center;
+    background-color: gray;
+  
+}
+
+img{
+    width: 100%;
+    margin-top: -8px;
+   }
+
+
+
+
+.read{
+    text-align: center;
+    color: rosybrown;
+}
+
+.travel{
+    font-family: roboto;
+    font-weight: 900;
+    text-align: center;
+    background-color: rgba(130, 186, 190, 0.438);
+}
+
