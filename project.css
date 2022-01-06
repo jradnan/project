@@ -3,9 +3,9 @@
     font-family: 'Libre Baskerville', serif;
     font-size: 70px;
     margin-bottom: -40px;
-    border-image: linear-gradient(#ffbe76, #f0932b);
-    border-left: 4px solid;
-    border-image-slice: 4;
+    padding-left: 10px;
+    border-left: 4px solid orange;
+    border-radius: 5px;
 
 }
 .mission{
