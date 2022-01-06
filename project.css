@@ -1,26 +1,170 @@
-.heading{
+
+.another-font{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 70px;
+    margin-bottom: -40px;
+    border-image: linear-gradient(#ffbe76, #f0932b);
+    border-left: 4px solid;
+    border-image-slice: 4;
+
+}
+.mission{
+    color: #1abc9c;
+    font-size: 50px;
+    
+}
+.blog{
+    max-width: 50%;
+    padding-top: 120px;
+    padding-left: 90px;
+}
+.banner{
+    display: flex;
+}
+.person img{
+    max-width: 80%;
+}
+.details{
+    font-family: 'Poppins', sans-serif;
+    max-width: 60%;
+    line-height: 30px;
+    font-size: 20px;
+    color: #3E3E3E;
+    padding-bottom: 15px;
+    text-transform: capitalize;
+    margin-top: 70px;
+}
+.button a{ 
+    text-decoration: none;
+    padding: 15px 50px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #6ab04c;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.pera{
+    color: #444444;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.loving-year{
+    color: #1abc9c;
+}
+.future-goal{
     text-align: center;
-    background-color: gray;
-  
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+
 }
 
-img{
-    width: 100%;
-    margin-top: -8px;
-   }
 
 
 
-
-.read{
-    text-align: center;
-    color: rosybrown;
+.Illustrator img{
+    max-width: 40%;
 }
 
-.travel{
-    font-family: roboto;
-    font-weight: 900;
-    text-align: center;
-    background-color: rgba(130, 186, 190, 0.438);
+.illustrator-2 img{
+    max-width: 40%;
+
+}
+.illustrator-3 img{
+    max-width: 40%;
+}
+.illustration{
+    display: flex;
+    margin-left: 120px;
+}
+.Life-goal{
+    font-family:'Poppins', sans-serif;
+    margin-left: 20px;
+}
+.my-future-goal{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 150px;
 }
 
+.illustrator-3{
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: -30px;
+}
+.Illustrator p{
+    max-width: 70%;
+}
+.illustrator-2 p{
+    max-width: 70%;
+}
+
+.illustrator-3 p{
+    max-width: 70%;
+}
+
+.documentation{
+    display: flex;
+    margin-top: 80px;
+}
+.documentation img{
+    max-width: 60%;
+    margin-left: 190px;
+    margin-top: 30px;
+}
+.documentation h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    max-width: 45%;
+}
+.documentation p{
+    font-family: 'Poppins', sans-serif;
+    color: #424242;
+    max-width: 70%;
+}
+
+
+.documentation-2{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.documentation-2 img{
+    max-width: 70%;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+.documentation-2 h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 38px;
+    max-width: 50%;
+}
+.documentation-2 p{
+    font-family: 'Poppins', sans-serif;
+    color: #424242;
+    max-width: 80%;
+}
+footer{
+    background-color: black;
+    padding-bottom: 30px;
+}
+footer h1{
+    color:white;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+footer span{
+    color: #1abc9c;
+}
+footer p{
+    color: #D6D8DE;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+}
